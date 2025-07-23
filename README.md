@@ -20,4 +20,4 @@ A simple and clean web app to generate QR codes instantly from any text or URL. 
 
 ![App Screenshot](screenshot.png)
 
-> 💬 *"Scan it. Share it. Code it."*
+💬 *"Scan it. Share it. Code it."*
